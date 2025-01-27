@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust programming: panicking due to an out-of-bounds vector access.  The `bug.rs` file contains code that will panic when run, while `bugSolution.rs` shows how to properly handle this issue using safe indexing methods or error handling.
